@@ -1,0 +1,54 @@
+X:129531
+M:6/8
+K:Cmaj
+^c2^A^G^G^G|^c^A^A^A2^G|
+K:Cmaj
+|:CDECDE|=F2GA2G|
+|^c2^A^G^G^G|^c^A^A^A2^G|
+M:3/4
+K:Cmaj
+|:=C=B,=C=F=G,=C|=B,=D=D=F2=G|
+|=f2^g=f^c^d|=f^c^A^A2^G|
+=A=G=E=c2|1=E=C=B,=D=C|
+--------------------------------------------------
+
+X:129557
+M:12/8
+K:Cmaj
+|^C2=F^G2^G |^A^c^A^G=F^D
+=F=E/2=D/2=C=F=G=A|=G=F=D=F2=A,|
+^C2=F^G2^G|^A^c^A^G=F^G
+L:1/8
+K:Gmaj
+|:D2G2GF|DEGABc
+|=f^d^c=c^A^G|^A^c^A^G=F^G
+M:6/8
+K:Cmaj
+|:^C^D=F^C^G^F|^G^C^c^G^F^A|
+------------------------------------------------
+
+X: 136
+K:C
+M:2/4
+L:1/8
+"C"ce/2c/2 ge/2c/2|"C"ce/2c/2 "G7"B/2c/2d/2e/2|
+=C=E/2=F/2=G=c2|=c2
+"C"ce/2c/2 ge/2c/2|"C"ce/2c/2 "G7"B/2c/2d/2e/2|
+|AcedcB|GED2Bc|
+"Am"ce/2c/2 "Em"Be/2B/2|"F"Ac/2A/2 "C"GA/2G/2
+|1=B,=C/2=B/2=A^G=E=C|=D=E=F=G=A=B|
+------------------------------------------------
+
+X: 155
+M:4/4
+L:1/4
+K:F
+"F"F>G A F|"Bb"D F "C"C2|
+K:A
+Acc/e/c/eea2|geBcdec|
+"F"F/2 F G/2 A F|"Bb"D F "Am"C2|
+K:Gmaj
+G>EEBAGA|BcdA/2G/2[B3G3]B|
+"Fmaj7"A c c c|A>c c2|
+DBB>A|B2G>B|
+-------------------------------------------------
